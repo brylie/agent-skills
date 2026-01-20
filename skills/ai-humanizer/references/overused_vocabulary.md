@@ -3,7 +3,9 @@
 ## Core Categories
 
 ### Transitions and Openers
+
 Predictable transitional phrases creating facade of logical structure:
+
 - Moreover
 - Furthermore
 - In conclusion
@@ -11,15 +13,18 @@ Predictable transitional phrases creating facade of logical structure:
 - Firstly, Secondly, Thirdly
 
 **Redundant "throat-clearing" openers:**
+
 - In today's fast-paced world
 - Large language models have revolutionized...
 - In recent years...
 - It is important to note that...
 
 ### Academic and "Safe" Verbs
+
 Statistically overrepresented verbs that sound sophisticated yet remain neutral:
 
 **Most notorious:**
+
 - **delve** (delves, delved, delving) - the primary cultural signifier of AI authorship
 - underscore
 - foster
@@ -33,7 +38,9 @@ Statistically overrepresented verbs that sound sophisticated yet remain neutral:
 - streamline
 
 ### Abstract Nouns and Poetic Metaphors
+
 Evocative but vague imagery that has become cliched:
+
 - tapestry (often "rich tapestry")
 - landscape (often "evolving landscape")
 - realm
@@ -46,9 +53,11 @@ Evocative but vague imagery that has become cliched:
 - ecosystem
 
 ### Adjective Inflation
+
 Over-applied modifiers signaling intellectual depth:
 
 **Most overused:**
+
 - **nuanced** - shown to increase by over 8,000% in instruction-tuned models
 - pivotal
 - intricate
@@ -62,7 +71,9 @@ Over-applied modifiers signaling intellectual depth:
 - essential
 
 ### Corporate Buzzwords
+
 "Workslop" terms in B2B contexts:
+
 - seamless
 - robust
 - cutting-edge
@@ -77,7 +88,9 @@ Over-applied modifiers signaling intellectual depth:
 - best-in-class
 
 ### Fake Hedging Terms
+
 Theatrical markers to avoid committing to strong judgments:
+
 - arguably
 - potentially
 - technically
@@ -90,7 +103,9 @@ Theatrical markers to avoid committing to strong judgments:
 - appears to
 
 ### The "Repeat Curse" Phrases
+
 Circular reasoning markers during failed self-correction:
+
 - Wait...
 - But...
 - I think...
@@ -99,7 +114,9 @@ Circular reasoning markers during failed self-correction:
 - In other words...
 
 ### Overused Closings
+
 Sign-offs that signal "fake friendliness":
+
 - I hope this helps
 - Feel free to reach out
 - Please don't hesitate
@@ -109,23 +126,29 @@ Sign-offs that signal "fake friendliness":
 ## Why AI Overuses These Terms
 
 ### Regression to the Mean
+
 LLMs predict the most probable next token, choosing "safe" or "average" language
 
 ### Preference Alignment (RLHF Effect)
+
 Human evaluators use fluency and formal tone as proxy for quality, rewarding sophisticated-sounding words
 
 ### Neutrality and Safety Constraints
+
 "Helpful, harmless, honest" guidelines lead to excessive hedging and neutral phrasing
 
 ## Impact on Detection
 
 ### Primary Detection Signals
+
 Presence of these words in scientific abstracts used to estimate at least 10% of 2024 PubMed abstracts were LLM-processed
 
-### Key marker combinations:
+### Key marker combinations
+
 - potential + findings + crucial
 - nuanced + landscape + pivotal
 - delve + underscore + foster
 
 ### Reader Response
+
 Association with "AI-slop" leads to lower engagement and distrust; particularly damaging in cold outreach campaigns

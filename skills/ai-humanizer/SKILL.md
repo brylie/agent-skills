@@ -130,4 +130,3 @@ Lead with analysis report, then provide "## Humanized Version" with transformed 
 - **superficial_analysis.md** - Analysis depth issues
 - **metrics.md** - Perplexity/burstiness concepts
 - **humanization_strategies.md** - Step-by-step transformation methods
-- 
