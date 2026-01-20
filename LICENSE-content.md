@@ -1,6 +1,6 @@
 # Creative Commons Attribution 4.0 International License
 
-This license applies to the **content** in this repository (reference materials, documentation, text, multimedia, and other creative works). The **code** in this repository is licensed under the MIT License (see LICENSE file).
+This license applies to the **content** in this repository (reference materials, documentation, text, multimedia, and other creative works). The **code** in this repository is licensed under the Apache 2.0 License (see LICENSE file).
 
 ---
 
