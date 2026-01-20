@@ -10,7 +10,7 @@ Copyright (c) 2026 Brylie Oxley
 
 This work is licensed under the Creative Commons Attribution 4.0 International License.
 
-To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+To view a copy of this license, visit [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/) or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 ### You are free to:
 
@@ -33,4 +33,4 @@ No warranties are given. The license may not give you all of the permissions nec
 
 ---
 
-For the full legal code, see: https://creativecommons.org/licenses/by/4.0/legalcode
+For the full legal code, see: [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
